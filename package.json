@@ -1,8 +1,8 @@
 {
-  "name": "tiny-babel-plugin",
+  "name": "@jg/babel-plugin-tiny-optional-chaining",
   "version": "1.0.0",
-  "description": "一个小型babel插件",
-  "main": "index.js",
+  "description": "一个小型optional-chaining插件",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,8 +20,5 @@
     "@babel/preset-env": "^7.8.4",
     "@babel/core": "^7.8.4",
     "jest": "^25.1.0"
-  },
-  "dependencies": {
-    "@babel/types": "^7.8.7"
   }
 }
