@@ -6,6 +6,11 @@
   "scripts": {
     "test": "jest"
   },
+  "files": [
+    "src",
+    "package.json",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jackie-gan/tiny-babel-plugin.git"
